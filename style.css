@@ -1,0 +1,33 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300|Amatic+SC);
+
+
+*{
+  font-family: 'Amatic SC', cursive;
+  background-color: #D6D6D6;
+}
+
+#popular ul{
+ display:inline;
+ margin-left:30px;
+ margin-right: 30px;
+}
+
+
+
+h3{
+  font-size: 110px;
+  text-align: center;
+  margin-top: 10px;
+
+}
+
+#search-form{
+  padding:50px;
+  width:20%;
+  margin: 0 auto;
+}
+
+
+img{
+  border-radius: 35px;
+}
